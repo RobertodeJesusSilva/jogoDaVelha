@@ -1,0 +1,39 @@
+
+.container{
+    text-align: center;
+}
+
+body{
+    background-color: rgba(173, 236, 215, 0.65);
+}
+
+
+.casa{
+    background-color: blanchedalmond;
+    width: 50px;
+    text-align: center;
+    display: inline-block;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 35px;
+    margin: 3px;
+    color: blanchedalmond;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.jogador, .vencedor, .placares{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+button{
+    margin-top: 10px;
+    background-color: rgba(173, 236, 215, 0.40);
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 10%;
+}
